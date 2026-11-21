@@ -44,3 +44,8 @@ See [`repository-standard/LICENSE`](repository-standard/LICENSE), [`repository-s
 Hart, Michigan — 2026
 
 *Support your local dreamer.*
+
+
+## Public presentation
+
+https://simple-minds-studios.github.io/public-website.github.io/
